@@ -127,5 +127,3 @@ The final trained model was saved using **Pickle** for future use and deployment
 This project demonstrates the application of machine learning techniques for predicting used car prices. After comparing multiple regression algorithms, Random Forest Regressor provided the best prediction performance and can be used to estimate fair market prices efficiently.
 
 ---
-
-### ⭐ If you found this project useful, consider giving it a star!
